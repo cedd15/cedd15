@@ -1,8 +1,8 @@
-#Junior C# / .Net Dev
+# Junior C# / .Net Dev
 
 Hi, I'm Cedric.
 
-I started coding in January last year. 
+I started coding in January last year.
 
 I tried many coding languages like Javascript, Python, Java...
 
