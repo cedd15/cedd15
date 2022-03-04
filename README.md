@@ -1,3 +1,5 @@
+#Junior C# / .Net Dev
+
 Hi, I'm Cedric.
 
 I started coding in January last year. 
